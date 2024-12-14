@@ -1,0 +1,258 @@
+2024-12-13 22:46:05,891 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/.
+2024-12-13 22:46:05,893 - fastAPI - INFO - HP-API - local - Handling function: redirect_to_ap
+2024-12-13 22:46:05,895 - fastAPI - INFO - HP-API - local - Completed request in 0.0018 seconds
+2024-12-13 22:46:05,895 - fastAPI - INFO - HP-API - local - Response status code: 307
+2024-12-13 22:47:18,694 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 22:47:18,695 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 22:47:18,698 - fastAPI - INFO - HP-API - local - Completed request in 0.0025 seconds
+2024-12-13 22:47:18,699 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 22:47:19,412 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-13 22:47:19,413 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-13 22:47:19,420 - fastAPI - INFO - HP-API - local - Completed request in 0.0070 seconds
+2024-12-13 22:47:19,420 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:05:43,458 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-13 23:05:43,462 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-13 23:05:43,464 - fastAPI - INFO - HP-API - local - Completed request in 0.0021 seconds
+2024-12-13 23:05:43,465 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-13 23:11:16,245 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 23:11:16,246 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 23:11:16,251 - fastAPI - INFO - HP-API - local - Completed request in 0.0037 seconds
+2024-12-13 23:11:16,252 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 23:11:16,441 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/favicon.ico.
+2024-12-13 23:11:16,441 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 23:11:16,442 - fastAPI - INFO - HP-API - local - Completed request in 0.0005 seconds
+2024-12-13 23:11:16,442 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 23:53:38,496 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-13 23:53:38,497 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 23:53:38,498 - fastAPI - INFO - HP-API - local - Completed request in 0.0016 seconds
+2024-12-13 23:53:38,499 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-13 23:54:06,014 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855//user/2.
+2024-12-13 23:54:06,014 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-13 23:54:06,016 - fastAPI - INFO - HP-API - local - Completed request in 0.0008 seconds
+2024-12-13 23:54:06,016 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-14 00:03:35,060 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855//user/2.
+2024-12-14 00:03:35,061 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-14 00:03:35,062 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-14 00:03:35,062 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-14 00:03:55,312 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855//user/2.
+2024-12-14 00:03:55,312 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-14 00:03:55,313 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-14 00:03:55,313 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-14 00:03:59,861 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:03:59,862 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:03:59,863 - fastAPI - INFO - HP-API - local - Completed request in 0.0008 seconds
+2024-12-14 00:03:59,870 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:04:00,041 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:04:00,041 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:04:00,045 - fastAPI - INFO - HP-API - local - Completed request in 0.0033 seconds
+2024-12-14 00:04:00,045 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:04:35,508 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855//user/2.
+2024-12-14 00:04:35,509 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-14 00:04:35,509 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-14 00:04:35,509 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-14 00:04:36,709 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 00:04:36,710 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 00:04:36,710 - fastAPI - INFO - HP-API - local - Completed request in 0.0003 seconds
+2024-12-14 00:04:36,710 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:04:36,811 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 00:04:36,811 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 00:04:36,818 - fastAPI - INFO - HP-API - local - Completed request in 0.0064 seconds
+2024-12-14 00:04:36,818 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 00:05:06,185 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855//user/2.
+2024-12-14 00:05:06,196 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-14 00:05:06,197 - fastAPI - INFO - HP-API - local - Completed request in 0.0007 seconds
+2024-12-14 00:05:06,197 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-14 02:12:00,572 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855//user/2.
+2024-12-14 02:12:00,576 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-14 02:12:00,583 - fastAPI - INFO - HP-API - local - Completed request in 0.0063 seconds
+2024-12-14 02:12:00,583 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-14 03:18:36,127 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855//user/2.
+2024-12-14 03:18:36,137 - fastAPI - INFO - HP-API - local - Handling function: unknown
+2024-12-14 03:18:36,140 - fastAPI - INFO - HP-API - local - Completed request in 0.0017 seconds
+2024-12-14 03:18:36,140 - fastAPI - INFO - HP-API - local - Response status code: 404
+2024-12-14 03:18:39,400 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 03:18:39,400 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 03:18:39,401 - fastAPI - INFO - HP-API - local - Completed request in 0.0006 seconds
+2024-12-14 03:18:39,402 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 03:18:39,590 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 03:18:39,591 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 03:18:39,594 - fastAPI - INFO - HP-API - local - Completed request in 0.0028 seconds
+2024-12-14 03:18:39,594 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 03:18:54,687 - fastAPI - INFO - HP-API - local - Incoming request: POST http://127.0.0.1:8855/users?email=hello.
+2024-12-14 03:18:54,687 - fastAPI - INFO - HP-API - local - Handling function: create_user
+2024-12-14 03:18:54,696 - fastAPI - INFO - HP-API - local - Completed request in 0.0087 seconds
+2024-12-14 03:18:54,696 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 03:19:07,294 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/hello.
+2024-12-14 03:19:07,295 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 03:19:07,296 - fastAPI - INFO - HP-API - local - Completed request in 0.0013 seconds
+2024-12-14 03:19:07,297 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 03:19:18,448 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/hello.
+2024-12-14 03:19:18,448 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 03:19:18,449 - fastAPI - INFO - HP-API - local - Completed request in 0.0009 seconds
+2024-12-14 03:19:18,450 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 03:22:33,611 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 03:22:33,611 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 03:22:33,612 - fastAPI - INFO - HP-API - local - Completed request in 0.0004 seconds
+2024-12-14 03:22:33,612 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 03:22:33,694 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 03:22:33,694 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 03:22:33,696 - fastAPI - INFO - HP-API - local - Completed request in 0.0019 seconds
+2024-12-14 03:22:33,696 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 03:22:46,396 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-14 03:22:46,397 - fastAPI - INFO - HP-API - local - Handling function: get_users
+2024-12-14 03:22:46,409 - fastAPI - ERROR - HP-API - local - Error processing request. Request was handled by: get_users 
+Method: GET - URL: http://127.0.0.1:8855/users - Headers: Headers({'host': '127.0.0.1:8855', 'connection': 'keep-alive', 'sec-ch-ua-platform': '"Windows"', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'accept': 'application/json', 'sec-ch-ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"', 'sec-ch-ua-mobile': '?0', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'cors', 'sec-fetch-dest': 'empty', 'referer': 'http://127.0.0.1:8855/docs', 'accept-encoding': 'gzip, deflate, br, zstd', 'accept-language': 'en-US,en;q=0.9'}) 
+Stack Trace: [TypeError("'builtin_function_or_method' object is not iterable"), TypeError('vars() argument must have __dict__ attribute')]
+Traceback (most recent call last):
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 324, in jsonable_encoder
+    data = dict(obj)
+TypeError: 'builtin_function_or_method' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 329, in jsonable_encoder
+    data = vars(obj)
+TypeError: vars() argument must have __dict__ attribute
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/beamerka/cs461/OSUCS461-ExitTicket/cs561/OSUCS461/main.py", line 32, in dispatch
+    response = await call_next(request)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/middleware/base.py", line 163, in call_next
+    raise app_exc
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/middleware/base.py", line 149, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/routing.py", line 327, in app
+    content = await serialize_response(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/routing.py", line 201, in serialize_response
+    return jsonable_encoder(response_content)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 303, in jsonable_encoder
+    jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 333, in jsonable_encoder
+    return jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 333, in jsonable_encoder
+    return jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 289, in jsonable_encoder
+    encoded_value = jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 289, in jsonable_encoder
+    encoded_value = jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 333, in jsonable_encoder
+    return jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 333, in jsonable_encoder
+    return jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 289, in jsonable_encoder
+    encoded_value = jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 332, in jsonable_encoder
+    raise ValueError(errors) from e
+ValueError: [TypeError("'builtin_function_or_method' object is not iterable"), TypeError('vars() argument must have __dict__ attribute')]
+
+2024-12-14 03:22:46,409 - fastAPI - INFO - HP-API - local - Completed request in 0.0125 seconds
+2024-12-14 03:22:52,436 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users.
+2024-12-14 03:22:52,436 - fastAPI - INFO - HP-API - local - Handling function: get_users
+2024-12-14 03:22:52,439 - fastAPI - ERROR - HP-API - local - Error processing request. Request was handled by: get_users 
+Method: GET - URL: http://127.0.0.1:8855/users - Headers: Headers({'host': '127.0.0.1:8855', 'connection': 'keep-alive', 'sec-ch-ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"', 'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform': '"Windows"', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'sec-fetch-site': 'cross-site', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br, zstd', 'accept-language': 'en-US,en;q=0.9'}) 
+Stack Trace: [TypeError("'builtin_function_or_method' object is not iterable"), TypeError('vars() argument must have __dict__ attribute')]
+Traceback (most recent call last):
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 324, in jsonable_encoder
+    data = dict(obj)
+TypeError: 'builtin_function_or_method' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 329, in jsonable_encoder
+    data = vars(obj)
+TypeError: vars() argument must have __dict__ attribute
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/beamerka/cs461/OSUCS461-ExitTicket/cs561/OSUCS461/main.py", line 32, in dispatch
+    response = await call_next(request)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/middleware/base.py", line 163, in call_next
+    raise app_exc
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/middleware/base.py", line 149, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/routing.py", line 327, in app
+    content = await serialize_response(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/routing.py", line 201, in serialize_response
+    return jsonable_encoder(response_content)
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 303, in jsonable_encoder
+    jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 333, in jsonable_encoder
+    return jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 333, in jsonable_encoder
+    return jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 289, in jsonable_encoder
+    encoded_value = jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 289, in jsonable_encoder
+    encoded_value = jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 333, in jsonable_encoder
+    return jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 333, in jsonable_encoder
+    return jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 289, in jsonable_encoder
+    encoded_value = jsonable_encoder(
+  File "/home/beamerka/.local/lib/python3.10/site-packages/fastapi/encoders.py", line 332, in jsonable_encoder
+    raise ValueError(errors) from e
+ValueError: [TypeError("'builtin_function_or_method' object is not iterable"), TypeError('vars() argument must have __dict__ attribute')]
+
+2024-12-14 03:22:52,439 - fastAPI - INFO - HP-API - local - Completed request in 0.0027 seconds
+2024-12-14 03:40:54,902 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/docs.
+2024-12-14 03:40:54,902 - fastAPI - INFO - HP-API - local - Handling function: swagger_ui_html
+2024-12-14 03:40:54,906 - fastAPI - INFO - HP-API - local - Completed request in 0.0030 seconds
+2024-12-14 03:40:54,907 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 03:40:55,035 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/openapi.json.
+2024-12-14 03:40:55,035 - fastAPI - INFO - HP-API - local - Handling function: openapi
+2024-12-14 03:40:55,050 - fastAPI - INFO - HP-API - local - Completed request in 0.0140 seconds
+2024-12-14 03:40:55,050 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 03:41:16,407 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/ge.
+2024-12-14 03:41:16,408 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 03:41:16,412 - fastAPI - INFO - HP-API - local - Completed request in 0.0037 seconds
+2024-12-14 03:41:16,414 - fastAPI - INFO - HP-API - local - Response status code: 200
+2024-12-14 03:41:21,363 - fastAPI - INFO - HP-API - local - Incoming request: GET http://127.0.0.1:8855/users/ge.
+2024-12-14 03:41:21,363 - fastAPI - INFO - HP-API - local - Handling function: get_user
+2024-12-14 03:41:21,364 - fastAPI - INFO - HP-API - local - Completed request in 0.0008 seconds
+2024-12-14 03:41:21,364 - fastAPI - INFO - HP-API - local - Response status code: 200
